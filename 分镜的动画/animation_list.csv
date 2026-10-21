@@ -1,0 +1,43 @@
+﻿编号,段落,时间码,动画名称,内容/文字,建议素材
+A01,一、0:00–0:15 冷开场,0:00–0:03,缓推镜头,网站首页全屏缓慢推进 1.0→1.1x,01_cafe_open_close/mixkit-young-man-preparing-coffee-in-a-coffee-shop-3570-720.mp4；10_extra_cozy_cafe_1080p/coverr-barista-adds-steamed-milk-and-foam-to-espresso-eczocyhka6-1080.mp4（可作开场前 1 秒氛围）
+A02,一、0:00–0:15 冷开场,0:03–0:06,按钮放大+点击音效,View Menu 按钮局部放大 1.5x，点击波纹+点击音效,
+A03,一、0:00–0:15 冷开场,0:06–0:10,价格高亮,高亮 2–3 个饮品价格（描边/底色闪亮）,
+A04,一、0:00–0:15 冷开场,0:10–0:13,字幕「手机也能看」,缩窄浏览器时弹出字幕「手机也能看」,07_extra_responsive_greenscreen/mixkit-hand-touches-mobile-website-greenscreen-demo-8857-720.mp4
+A05,一、0:00–0:15 冷开场,0:13–0:15,大标题,大字「零代码 · 4分钟教程」，“零代码”“4分钟”加粗,
+A06,二、0:15–0:40 痛点与方案,0:15–0:21,搜索框放大,放大搜索框「DeepSeek free API」1.5x,02_pain_point/mixkit-young-very-frustrated-woman-in-front-of-her-computer-25575-720.mp4
+A07,二、0:15–0:40 痛点与方案,0:21–0:27,API Key/充值示意图,示意插画，角标「示意」，标签「申请密钥」「充值」；不得出现真实密钥,02_pain_point/mixkit-woman-with-laptop-holding-a-credit-card-28723-720.mp4
+A08,二、0:15–0:40 痛点与方案,0:27–0:33,模型高亮,WorkBuddy 模型列表中高亮 DeepSeek 模型,
+A09,二、0:15–0:40 痛点与方案,0:33–0:40,四步流程图,下载 → 选模型 → 做网站 → 修改，四个图标依次出现；做成可复用模板，后续每段开头点亮当前步骤,
+A10,三、0:40–1:10 安装与文件夹,0:40–0:44,域名放大,地址栏 workbuddy.ai 放大 1.5x,11_extra_1080p_alt/coverr-womans-hands-typing-on-a-laptop-viuytj9vhb-1080.mp4
+A11,三、0:40–1:10 安装与文件夹,0:44–0:48,下载按钮箭头,动画箭头指向下载按钮（Mac/Windows）,08_extra_cloud_database/mixkit-information-being-downloaded-from-the-cloud-31544-720.mp4（可选，抽象“下载”）
+A12,三、0:40–1:10 安装与文件夹,0:48–0:54,加速标签,安装过程快进，角标「×8」,
+A13,三、0:40–1:10 安装与文件夹,1:00–1:06,路径放大,文件夹路径局部放大 1.5x,
+A14,三、0:40–1:10 安装与文件夹,1:06–1:10,字幕「项目文件统一放在这里」,字幕说明工作区,
+A15,三、0:40–1:10 安装与文件夹,0:48–1:10,隐私打码,登录邮箱、验证码、账号信息模糊遮挡,
+A16,四、1:10–1:50 选择模型,1:10–1:17,放大到 130%,模型选择器区域放大 1.3x,
+A17,四、1:10–1:50 选择模型,1:25–1:33,红框,红框圈住「DeepSeek V4.1 Flash」模型名,
+A18,四、1:10–1:50 选择模型,1:33–1:40,免费标签放大,免费标签/倍率放大停留 2 秒,
+A19,四、1:10–1:50 选择模型,1:40–1:45,绿色勾号,选中模型后出现绿色 ✓,
+A20,四、1:10–1:50 选择模型,1:45–1:50,备用方案提示卡,卡片「没有免费标识？先停下检查」,
+A21,五、1:50–2:55 生成网站并检查,1:50–1:56,步骤字幕,「第三步：生成网站」，并复用流程图点亮“做网站”,
+A22,五、1:50–2:55 生成网站并检查,1:56–2:03,提示词关键句高亮,高亮提示词关键句,
+A23,五、1:50–2:55 生成网站并检查,1:56–2:20,提示词卡片侧栏,右侧卡片：Sunny Side Café；单个 index.html；5款饮品+价格；营业时间+菜单按钮；手机适配+无外部依赖,
+A24,五、1:50–2:55 生成网站并检查,2:03–2:07,回车音效,发送时回车音效,
+A25,五、1:50–2:55 生成网站并检查,2:07–2:14,加速标签,角标「4×」,
+A26,五、1:50–2:55 生成网站并检查,2:14–2:20,路径放大,权限弹窗中文件路径放大,
+A27,五、1:50–2:55 生成网站并检查,2:20–2:26,新文件高亮,index.html 出现时高亮,09_extra_click_open_page/coverr-mouse-clicking-zqcnt7hxpc-1080.mp4
+A28,五、1:50–2:55 生成网站并检查,2:32–2:55,统一检查动画,检查1✓ / 检查2✓ / 检查3✓ / 手机适配✓，同一视觉样式,04_result/mixkit-woman-celebrating-in-her-desk-23719-720.mp4；07_extra_responsive_greenscreen/mixkit-man-browsing-website-on-mobile-greenscreen-8824-720.mp4
+A29,六、2:55–3:35 修改与修复,2:55–3:02,关键句高亮,高亮「其他地方保持不变」,05_design_tweak/mixkit-the-graphic-designer-picks-colors-for-the-typography-design-on-50598-720.mp4
+A30,六、2:55–3:35 修改与修复,3:02–3:09,前后对比分屏,左：修改前 暖橙+奶油；右：修改后 深绿+奶油白,05_design_tweak/mixkit-architect-choosing-a-color-from-the-color-plate-21219-720.mp4；05_design_tweak/mixkit-coffee-in-green-mug-818-720.mp4
+A31,六、2:55–3:35 修改与修复,3:09–3:14,新区域高亮,「今日特供」区域出现高亮,
+A32,六、2:55–3:35 修改与修复,3:14–3:19,失效按钮放大,仅真实失效时放大无反应按钮；否则标注「模拟故障」,
+A33,六、2:55–3:35 修改与修复,3:19–3:25,关键词突出,突出「不能跳转」,
+A34,六、2:55–3:35 修改与修复,3:31–3:35,完成大字,大字「修改完成 ✓」,
+A35,七、3:35–3:55 免费说明,3:35–3:42,价格位放大,模型菜单价格/免费标签放大,
+A36,七、3:35–3:55 免费说明,3:35–3:42,免费活动角标,角标说明限免活动（以录制当天界面为准）,
+A37,七、3:35–3:55 免费说明,3:42–3:49,两栏对比卡,WorkBuddy 活动 vs DeepSeek API 按量计费,
+A38,七、3:35–3:55 免费说明,3:49–3:55,说明字幕,「网页聊天≠本地文件操作」,
+A39,八、3:55–4:15 结尾与下期,3:55–4:01,轻音乐,配轻音乐（免费授权音乐）,10_extra_cozy_cafe_1080p/coverr-girl-studying-in-the-cafe-nk0z12z0vq-1080.mp4
+A40,八、3:55–4:15 结尾与下期,4:01–4:06,桌面/手机并排,桌面版与手机版并排 +「你的网站完成了」,07_extra_responsive_greenscreen/mixkit-relaxed-woman-browses-website-on-laptop-greenscreen-8828-720.mp4
+A41,八、3:55–4:15 结尾与下期,4:06–4:11,下期预告草图,NEXT EPISODE · 计划功能：下单表单、云端存储，标注「下期计划」，不得伪装成已完成,06_next_episode/mixkit-young-woman-shopping-online-with-a-smartphone-23475-720.mp4；08_extra_cloud_database/mixkit-virtual-representation-of-information-in-the-cloud-30565-720.mp4
+A42,八、3:55–4:15 结尾与下期,4:11–4:15,订阅结束动画,关注/订阅提示简洁结束动画,

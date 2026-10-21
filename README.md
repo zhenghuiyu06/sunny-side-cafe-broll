@@ -31,10 +31,34 @@
 | 4:06–4:11 下集预告 | `06_next_episode/mixkit-close-up-of-server-racks-lights-23215-720.mp4` | close up of server racks lights | 1280x720 | 11.9 | https://mixkit.co/free-stock-video/close-up-of-server-racks-lights-23215/ | Mixkit | Mixkit Free License |
 | 4:06–4:11 下集预告 | `06_next_episode/mixkit-bluish-data-center-hallway-23282-720.mp4` | bluish data center hallway | 1280x720 | 14.3 | https://mixkit.co/free-stock-video/bluish-data-center-hallway-23282/ | Mixkit | Mixkit Free License |
 
-## 未找到合适 ≥720p 素材的镜头
-- 下载/安装软件、新建文件夹的通用桌面手部镜头（用你自己的录屏替代）
-- 手机 vs 笔记本响应式对比（建议用你自己的录屏拼接）
-- 绿色主题咖啡馆室内（仅有绿色咖啡杯 coffee-in-green-mug 作替代）
-- 云/数据库概念仅有机房服务器画面
+## 第二轮补充（Mixkit + Coverr）
 
-注：Mixkit 免费直链大多只提供 720p，故多数为 1280x720；竖屏素材为 720x1280。urban-coffee-shop 为夜晚户外咖啡座，暖色氛围偏弱。
+Coverr 许可：https://coverr.co/license ，可免费用于商业与非商业用途，无需署名；Coverr 页面未标注作者，创作者写 Coverr。仅选取非 Premium 素材。
+
+| 段落/时间码 | 文件 | 画面内容 | 实测分辨率 | 时长(秒) | 来源页 | 创作者 | 许可 |
+|---|---|---|---|---|---|---|---|
+| 1:50–2:55 手机 vs 笔记本响应式（绿幕，可抠像放入你的网站） | `07_extra_responsive_greenscreen/mixkit-hand-touches-mobile-website-greenscreen-demo-8857-720.mp4` | hand touches mobile website greenscreen demo 8857 | 1280x720 | 14.7 | https://mixkit.co/free-stock-video/hand-touches-mobile-website-greenscreen-demo-8857/ | Mixkit | Mixkit Free License |
+| 1:50–2:55 手机 vs 笔记本响应式（绿幕，可抠像放入你的网站） | `07_extra_responsive_greenscreen/mixkit-man-browsing-website-on-mobile-greenscreen-8824-720.mp4` | man browsing website on mobile greenscreen 8824 | 1280x720 | 11.0 | https://mixkit.co/free-stock-video/man-browsing-website-on-mobile-greenscreen-8824/ | Mixkit | Mixkit Free License |
+| 1:50–2:55 手机 vs 笔记本响应式（绿幕，可抠像放入你的网站） | `07_extra_responsive_greenscreen/mixkit-relaxed-woman-browses-website-on-laptop-greenscreen-8828-720.mp4` | relaxed woman browses website on laptop greenscreen 8828 | 1280x720 | 11.8 | https://mixkit.co/free-stock-video/relaxed-woman-browses-website-on-laptop-greenscreen-8828/ | Mixkit | Mixkit Free License |
+| 1:50–2:55 手机 vs 笔记本响应式（绿幕，可抠像放入你的网站） | `07_extra_responsive_greenscreen/mixkit-man-browses-greenscreen-website-on-laptop-in-bed-8856-720.mp4` | man browses greenscreen website on laptop in bed 8856 | 1280x720 | 9.0 | https://mixkit.co/free-stock-video/man-browses-greenscreen-website-on-laptop-in-bed-8856/ | Mixkit | Mixkit Free License |
+| 4:06–4:11 云/数据库概念 | `08_extra_cloud_database/mixkit-information-being-downloaded-from-the-cloud-31544-720.mp4` | information being downloaded from the cloud 31544 | 1280x720 | 15.0 | https://mixkit.co/free-stock-video/information-being-downloaded-from-the-cloud-31544/ | Mixkit | Mixkit Free License |
+| 4:06–4:11 云/数据库概念 | `08_extra_cloud_database/mixkit-virtual-representation-of-information-in-the-cloud-30565-720.mp4` | virtual representation of information in the cloud 30565 | 1280x720 | 15.0 | https://mixkit.co/free-stock-video/virtual-representation-of-information-in-the-cloud-30565/ | Mixkit | Mixkit Free License |
+| 4:06–4:11 云/数据库概念 | `08_extra_cloud_database/mixkit-light-in-the-background-of-a-virtual-3d-database-19630-720.mp4` | light in the background of a virtual 3d database 19630 | 1280x720 | 15.0 | https://mixkit.co/free-stock-video/light-in-the-background-of-a-virtual-3d-database-19630/ | Mixkit | Mixkit Free License |
+| 1:50–2:55 点击/打开网页 | `09_extra_click_open_page/mixkit-fingers-typing-on-a-laptop-browsing-the-internet-13906-720.mp4` | fingers typing on a laptop browsing the internet 13906 | 1280x720 | 13.6 | https://mixkit.co/free-stock-video/fingers-typing-on-a-laptop-browsing-the-internet-13906/ | Mixkit | Mixkit Free License |
+| 1:50–2:55 点击/打开网页 | `09_extra_click_open_page/coverr-mouse-clicking-zqcnt7hxpc-1080.mp4` | mouse clicking zqcnt7hxpc | 1920x1080 | 14.2 | https://coverr.co/videos/mouse-clicking-zqcnt7hxpc | Coverr | Coverr License |
+| 1:50–2:55 点击/打开网页 | `09_extra_click_open_page/coverr-browsing-on-laptop-55wccangus-1080.mp4` | browsing on laptop 55wccangus | 1920x1080 | 15.4 | https://coverr.co/videos/browsing-on-laptop-55wccangus | Coverr | Coverr License |
+| 0:00–0:15 / 3:55–4:15 温暖咖啡馆（1080p） | `10_extra_cozy_cafe_1080p/coverr-a-young-man-opens-his-laptop-in-a-cafe-o93blbpvmz-1080.mp4` | a young man opens his laptop in a cafe o93blbpvmz | 1920x1080 | 12.5 | https://coverr.co/videos/a-young-man-opens-his-laptop-in-a-cafe-o93blbpvmz | Coverr | Coverr License |
+| 0:00–0:15 / 3:55–4:15 温暖咖啡馆（1080p） | `10_extra_cozy_cafe_1080p/coverr-girl-studying-in-the-cafe-nk0z12z0vq-1080.mp4` | girl studying in the cafe nk0z12z0vq | 1920x1080 | 21.2 | https://coverr.co/videos/girl-studying-in-the-cafe-nk0z12z0vq | Coverr | Coverr License |
+| 0:00–0:15 / 3:55–4:15 温暖咖啡馆（1080p） | `10_extra_cozy_cafe_1080p/coverr-barista-adds-steamed-milk-and-foam-to-espresso-eczocyhka6-1080.mp4` | barista adds steamed milk and foam to espresso eczocyhka6 | 1920x1080 | 13.5 | https://coverr.co/videos/barista-adds-steamed-milk-and-foam-to-espresso-eczocyhka6 | Coverr | Coverr License |
+| 0:00–0:15 / 3:55–4:15 温暖咖啡馆（1080p） | `10_extra_cozy_cafe_1080p/coverr-rainy-day-cozy-coffee-by-the-window-1080.mp4` | rainy day cozy coffee by the window ⚠️Coverr 标记为 AI 生成，YouTube 上传时可能需勾选合成内容声明 | 1920x1080 | 8.0 | https://coverr.co/videos/rainy-day-cozy-coffee-by-the-window | Coverr | Coverr License |
+| 0:00–0:15 / 3:55–4:15 温暖咖啡馆（1080p） | `10_extra_cozy_cafe_1080p/coverr-cozy-cafe-work-session-1080.mp4` | cozy cafe work session ⚠️Coverr 标记为 AI 生成，YouTube 上传时可能需勾选合成内容声明 | 1952x1080 | 9.0 | https://coverr.co/videos/cozy-cafe-work-session | Coverr | Coverr License |
+| 0:00–0:15 / 3:55–4:15 温暖咖啡馆（1080p） | `10_extra_cozy_cafe_1080p/coverr-barista-gives-coffee-to-a-customer-o0v2li1o0w-1080.mp4` | barista gives coffee to a customer o0v2li1o0w | 1920x1080 | 9.0 | https://coverr.co/videos/barista-gives-coffee-to-a-customer-o0v2li1o0w | Coverr | Coverr License |
+| 0:40–1:10 / 1:50–2:55 1080p 替代 | `11_extra_1080p_alt/coverr-womans-hands-typing-on-a-laptop-viuytj9vhb-1080.mp4` | womans hands typing on a laptop viuytj9vhb | 1920x1080 | 21.6 | https://coverr.co/videos/womans-hands-typing-on-a-laptop-viuytj9vhb | Coverr | Coverr License |
+| 0:40–1:10 / 1:50–2:55 1080p 替代 | `11_extra_1080p_alt/coverr-a-girl-sitting-at-her-table-and-working-on-her-phone-and-laptop-rfgzdxmoel-1080.mp4` | a girl sitting at her table and working on her phone and laptop rfgzdxmoel | 1920x1080 | 13.2 | https://coverr.co/videos/a-girl-sitting-at-her-table-and-working-on-her-phone-and-laptop-rfgzdxmoel | Coverr | Coverr License |
+
+## 第二轮后仍未找到合适素材
+- 下载/安装软件的笔记本画面（仅有抽象“从云端下载信息”动画可替代）
+- 在桌面新建/整理文件夹
+- 绿色主题咖啡馆室内（girl-studying-in-the-cafe 背景有大量绿植，可勉强替代）
+
+来源访问情况：Pixabay、Videvo 返回 403，未绕过；Pexels 第一轮 403。

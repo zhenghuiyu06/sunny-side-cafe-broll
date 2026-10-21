@@ -8,7 +8,7 @@ Video: Sunny Side Café — build a website free with WorkBuddy + DeepSeek V4.1 
 分镜素材/<段落>/README.md   每段：对应录屏名、动画清单、空镜及建议时间码 / per-segment: recording name, animations, stock + placement
 分镜素材/<段落>/空镜/        本段库存空镜 / stock B-roll for this segment
 分镜的动画/                  全部 42 项后期动画（README.md + animation_list.csv）/ all 42 motion-graphic items
-分镜的录屏/                  ⚠️ 由用户自行添加的录屏（仓库中暂无）/ user's own screen recordings, added by her later
+分镜的录屏/                  用户自己的录屏（由她添加；一至八段均有，文件名以段号开头，如「八、…」）/ user's own recordings for segments 一–八, named by segment prefix
 ```
 段落：一 0:00–0:15 冷开场｜二 0:15–0:40 为什么使用WorkBuddy｜三 0:40–1:10 安装软件与工作区｜四 1:10–1:50 选择DeepSeek V4.1 Flash｜五 1:50–2:55 生成网站并检查｜六 2:55–3:35 改设计与修复｜七 3:35–3:55 免费使用说明｜八 3:55–4:15 结尾与下期预告。
 一条空镜若用于多段，文件只放在主段落，其它段 README 以相对路径引用。 / A clip used in several segments lives in its primary segment; others reference it by relative path.
@@ -33,3 +33,6 @@ Video: Sunny Side Café — build a website free with WorkBuddy + DeepSeek V4.1 
 - Coverr License: https://coverr.co/license — 可商用，无需署名 / commercial use OK, no attribution
 - 两者都不允许单独再分发原始文件。本仓库为所有者知情后选择公开，建议视频完成后改回私有。 / Neither permits redistributing raw files standalone; repo is public by owner's choice — re-private after the video is done.
 - 来源页 URL 见各段 README。 / Source URLs are in each segment README.
+
+## A37 对比卡数据 / Comparison card data
+3:42–3:49 的「WorkBuddy 活动 vs DeepSeek API 按量计费」必须先按 `分镜的动画/README.md` 中 A37 核查要求查官方来源并记录到 `分镜的动画/A37_sources.md`，不得编造数字。 / Research official sources first, log URLs + access dates, no invented numbers.
